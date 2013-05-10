@@ -47,6 +47,11 @@
         <artifactId>spring-webmvc</artifactId>
         <version>3.2.2.RELEASE</version>
     </dependency>
+	<dependency>
+	<groupId>com.belajar.web</groupId>
+  <artifactId>Sesi-04</artifactId>
+  <version>1.0-SNAPSHOT</version>
+      </dependency>
 </dependencies>
  <build>
     <plugins>

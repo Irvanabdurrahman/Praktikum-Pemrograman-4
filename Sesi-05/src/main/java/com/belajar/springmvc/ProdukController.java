@@ -1,7 +1,7 @@
 package com.belajar.springmvc;
 
-import com.belajar.springmvc.Produk;
-import com.belajar.springmvc.ProdukDao;
+import com.belajar.web.Produk;
+import com.belajar.web.ProdukDao;
 import java.math.BigDecimal;
 import java.util.Date;
 import java.util.List;
